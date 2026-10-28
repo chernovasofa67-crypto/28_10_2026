@@ -7,4 +7,10 @@ add_executable(28_10_2026 main.cpp
         Date.cpp
         Date.h
         Soft.cpp
-        Soft.h)
+        Soft.h
+        FreeSoft.cpp
+        FreeSoft.h
+        Shareware.cpp
+        Shareware.h
+        Comercial.cpp
+        Comercial.h)
